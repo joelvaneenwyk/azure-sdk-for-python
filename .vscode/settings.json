@@ -1,0 +1,9 @@
+{
+    "azureFunctions.projectSubpath": "sdk\\identity\\azure-identity\\tests\\azure-functions",
+    "azureFunctions.deploySubpath": "sdk\\identity\\azure-identity\\tests\\azure-functions",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen"
+}
